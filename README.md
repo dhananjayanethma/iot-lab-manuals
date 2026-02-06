@@ -11,3 +11,6 @@ The repository includes the following lab manuals:
 - **IoT Lab 2 – Lab Sheet**  
 - **IoT Lab 3 – Lab Sheet**  
 - **IoT Lab 4 – Lab Sheet** (DOCX & PDF)
+
+## Documentation Format Notice
+The project documentation was originally created as a Word document with embedded demonstration videos.
